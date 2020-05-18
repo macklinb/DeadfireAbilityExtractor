@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadfireAbilityInfobox", "DeadfireAbilityInfobox\DeadfireAbilityInfobox.csproj", "{2BDA6B02-A4F7-41AC-ACAC-EF0B0CA2D4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadfireAbilityExtractor", "DeadfireAbilityExtractor\DeadfireAbilityExtractor.csproj", "{AE3E760E-95B6-4F05-BDAF-28935BC7ACDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDA6B02-A4F7-41AC-ACAC-EF0B0CA2D4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDA6B02-A4F7-41AC-ACAC-EF0B0CA2D4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDA6B02-A4F7-41AC-ACAC-EF0B0CA2D4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDA6B02-A4F7-41AC-ACAC-EF0B0CA2D4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3E760E-95B6-4F05-BDAF-28935BC7ACDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3E760E-95B6-4F05-BDAF-28935BC7ACDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3E760E-95B6-4F05-BDAF-28935BC7ACDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3E760E-95B6-4F05-BDAF-28935BC7ACDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49FB669C-CBC2-49AD-A8DE-DA1196B742FF}
+	EndGlobalSection
+EndGlobal
